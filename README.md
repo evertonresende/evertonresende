@@ -66,10 +66,10 @@ DevOps         GitHub Actions · EAS Build · Turborepo · Docker Compose
 ### Journey
 
 ```
-Softplan (Product Team)  →  Flutter/Dart Apps  →  React + TypeScript  →  Python + AI  →  Edge Computing
-     Product Discovery        6 mobile apps        SaaS + Fintech       ML + LLMs      Cloudflare Workers
-     Prototyping              App Store/Play        250k+ lines          Genetic Algo    Durable Objects
-     Requirements             Firebase              Multi-tenant         Docker/VPS      Realtime
+FAPAM (React Dev)  →  Softplan (Product)  →  Flutter/Dart  →  React + TypeScript  →  Python + AI  →  Edge Computing
+  Portal rebuild       Discovery/Prototyping   6 mobile apps   SaaS + Fintech       ML + LLMs      Cloudflare Workers
+  Portal do Aluno      Requirements            App Store/Play  250k+ lines          Genetic Algo    Durable Objects
+  React.js             Firebase + Mixpanel     Firebase        Multi-tenant         Docker/VPS      Realtime
 ```
 
 ---
