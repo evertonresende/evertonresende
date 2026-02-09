@@ -27,7 +27,7 @@ Turborepo with 7 workspaces. Durable Objects for realtime WebSocket (1 instance 
 ### Tech Stack
 
 ```
-Frontend       React · React Native · Next.js · Expo · Flutter · Vite · Tailwind CSS
+Frontend       React · React Native · Next.js · Expo · Vite · Tailwind CSS
 Backend        Cloudflare Workers · Hono · Node.js · Python · Supabase Edge Functions
 Database       PostgreSQL · Neon · Supabase · Drizzle ORM · pgvector · Firebase
 Cloud          Cloudflare (Workers, KV, R2, Durable Objects, Queues, Hyperdrive)
@@ -66,10 +66,10 @@ DevOps         GitHub Actions · EAS Build · Turborepo · Docker Compose
 ### Journey
 
 ```
-FAPAM (React Dev)  →  Softplan (Product)  →  Flutter/Dart  →  React + TypeScript  →  Python + AI  →  Edge Computing
-  Portal rebuild       Discovery/Prototyping   6 mobile apps   SaaS + Fintech       ML + LLMs      Cloudflare Workers
-  Portal do Aluno      Requirements            App Store/Play  250k+ lines          Genetic Algo    Durable Objects
-  React.js             Firebase + Mixpanel     Firebase        Multi-tenant         Docker/VPS      Realtime
+FAPAM (React Dev)  →  Softplan (Product)     →  React + TypeScript  →  Python + AI  →  Edge Computing
+  Portal rebuild       Discovery/Prototyping      SaaS + Fintech       ML + LLMs      Cloudflare Workers
+  Portal do Aluno      Requirements/Prototyping   250k+ lines          Genetic Algo    Durable Objects
+  React.js             Firebase + Mixpanel        Multi-tenant         Docker/VPS      Realtime
 ```
 
 ---
