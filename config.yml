@@ -1,0 +1,71 @@
+username: evertonresende
+
+profile:
+  name: "Everton Resende"
+  tagline: "Mobile Developer | React Native & Expo | Apps em Produção"
+  company: "SAT Bank"
+  location: "Minas Gerais, Brazil"
+  bio: |
+    Desenvolvedor mobile com apps publicados na App Store e Google Play.
+    3 anos em produto (Softplan) + full-stack solo (250k+ linhas) antes de focar 100% em mobile.
+  philosophy: '"Código bom é código que resolve problema real em produção."'
+
+social:
+  email: "everton.augustor@gmail.com"
+  linkedin: "evertonresende"
+  website: "https://evertonresende.com"
+
+galaxy_arms:
+  - name: "Mobile"
+    color: "synapse_cyan"
+    items:
+      - "React Native"
+      - "Expo SDK 54"
+      - "EAS Build"
+  - name: "Full-Stack"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "Next.js"
+      - "PostgreSQL"
+  - name: "AI & DevOps"
+    color: "axon_amber"
+    items:
+      - "OpenAI SDK"
+      - "Anthropic SDK"
+      - "GitHub Actions"
+
+projects:
+  - repo: "calcom/cal.com"
+    arm: 1
+    description: "Open source contributor — fix(ui): phone booking display (merged PR #27636)"
+  - repo: "evertonresende/evertonresende"
+    arm: 0
+    description: "Galaxy profile with animated SVGs and real-time GitHub stats"
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
