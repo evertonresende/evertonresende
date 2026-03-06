@@ -2,13 +2,13 @@ username: evertonresende
 
 profile:
   name: "Everton Resende"
-  tagline: "Mobile Developer | React Native & Expo | Apps em Produção"
+  tagline: "Product Designer | AI-Native | Figma & Code"
   company: "SAT Bank"
   location: "Minas Gerais, Brazil"
   bio: |
-    Desenvolvedor mobile com apps publicados na App Store e Google Play.
-    3 anos em produto (Softplan) + full-stack solo (250k+ linhas) antes de focar 100% em mobile.
-  philosophy: '"Código bom é código que resolve problema real em produção."'
+    Product Designer com 7 anos de experiencia. Meu diferencial: eu codifico o que projeto.
+    Figma + React + TypeScript. Integro IA no processo de design com Claude Code e MCP.
+  philosophy: '"Design bom e design que resolve problema real em producao."'
 
 social:
   email: "everton.augustor@gmail.com"
@@ -16,24 +16,24 @@ social:
   website: "https://evertonresende.com"
 
 galaxy_arms:
-  - name: "Mobile"
-    color: "synapse_cyan"
-    items:
-      - "React Native"
-      - "Expo SDK 54"
-      - "EAS Build"
-  - name: "Full-Stack"
+  - name: "Design"
     color: "dendrite_violet"
     items:
+      - "Figma"
+      - "Design Systems"
+      - "Prototyping"
+  - name: "Frontend"
+    color: "synapse_cyan"
+    items:
+      - "React"
+      - "React Native"
       - "TypeScript"
-      - "Next.js"
-      - "PostgreSQL"
-  - name: "AI & DevOps"
+  - name: "AI & Research"
     color: "axon_amber"
     items:
-      - "OpenAI SDK"
-      - "Anthropic SDK"
-      - "GitHub Actions"
+      - "Claude Code"
+      - "A/B Testing"
+      - "User Research"
 
 projects:
   - repo: "calcom/cal.com"

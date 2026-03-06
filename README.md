@@ -27,18 +27,18 @@
 
 <br/>
 
-Desenvolvedor mobile com apps publicados na App Store e Google Play.
-3 anos em produto (Softplan) + full-stack solo (250k+ linhas) antes de focar 100% em mobile.
+Product Designer com 7 anos de experiencia em design de produto digital.
+Meu diferencial: eu codifico o que projeto — Figma + React + TypeScript.
 
-**Atualmente** Mobile Developer na SAT Bank — Minas Gerais, Brazil
+**Atualmente** AI Product Designer na SAT Bank — Minas Gerais, Brazil
 
-### O que construo
+### O que projeto
 
 **App Bancario — SAT Bank** *(em producao)*
-React Native + Expo SDK 54, publicado nas duas stores. 6 build profiles EAS, OTA Updates, feature flags (Statsig), A/B testing, Sentry 100% trace. CI/CD com GitHub Actions. Auth dedicado com JWT rotation + 2FA.
+Design de produto para app bancario mobile. A/B testing com Statsig, monitoramento com Sentry, design system em React Native + Expo. Integro IA no processo de design com Claude Code e MCP.
 
 **SaaS Multi-Tenant — Gestao Clinica** *(250k+ linhas, solo)*
-Sistema completo: agenda, financeiro, CRM, estoque, WhatsApp. Multi-tenant com Row Level Security no PostgreSQL, 28 migrations, 8 Edge Functions. React + Next.js + TypeScript.
+Projetei e construi sozinho: agenda, financeiro, CRM, estoque, WhatsApp. Toda a UX/UI + implementacao. React + Next.js + TypeScript.
 
 ### Open Source
 
