@@ -27,18 +27,18 @@
 
 <br/>
 
-Product Designer com 7 anos de experiencia em design de produto digital.
-Meu diferencial: eu codifico o que projeto — Figma + React + TypeScript.
+Product Designer com 6 anos de experiencia em design de produto digital.
+Processo AI-First: integro inteligencia artificial em cada etapa do design.
 
-**Atualmente** AI Product Designer na SAT Bank — Minas Gerais, Brazil
+**Atualmente** AI Product Designer na SAT Bank
 
 ### O que projeto
 
 **App Bancario — SAT Bank** *(em producao)*
-Design de produto para app bancario mobile. A/B testing com Statsig, monitoramento com Sentry, design system em React Native + Expo. Integro IA no processo de design com Claude Code e MCP.
+Design de produto para app bancario mobile com processo AI-First. A/B testing com Statsig, features de IA, automacao de fluxos com MCP, design system escalavel.
 
-**SaaS Multi-Tenant — Gestao Clinica** *(250k+ linhas, solo)*
-Projetei e construi sozinho: agenda, financeiro, CRM, estoque, WhatsApp. Toda a UX/UI + implementacao. React + Next.js + TypeScript.
+**Produtos Juridicos — Softplan** *(3 anos)*
+Discovery, pesquisa com usuarios e prototipacao de alta fidelidade para o setor publico/juridico. Reconhecido 10x no programa Softplayer A+.
 
 ### Open Source
 
@@ -50,13 +50,13 @@ Projetei e construi sozinho: agenda, financeiro, CRM, estoque, WhatsApp. Toda a 
 <br/>
 
 <div align="center">
-  <a href="mailto:everton.augustor@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  <a href="https://evertonresende.com">
+    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/evertonresende">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn"/>
   </a>
-  <a href="https://evertonresende.com">
-    <img src="https://img.shields.io/badge/-Website-080c14?style=for-the-badge&logo=googlechrome&logoColor=ffb020" alt="Website"/>
+  <a href="mailto:everton.augustor@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffb020" alt="Email"/>
   </a>
 </div>

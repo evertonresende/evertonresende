@@ -2,13 +2,13 @@ username: evertonresende
 
 profile:
   name: "Everton Resende"
-  tagline: "Product Designer | AI-Native | Figma & Code"
+  tagline: "Product Designer | AI-First | Figma, AI, Research"
   company: "SAT Bank"
   location: "Minas Gerais, Brazil"
   bio: |
-    Product Designer com 7 anos de experiencia. Meu diferencial: eu codifico o que projeto.
-    Figma + React + TypeScript. Integro IA no processo de design com Claude Code e MCP.
-  philosophy: '"Design bom e design que resolve problema real em producao."'
+    Product Designer com 6 anos de experiencia e processo AI-First.
+    Integro inteligencia artificial em cada etapa do design — da pesquisa a validacao.
+  philosophy: '"Design inteligente e design validado com dados reais."'
 
 social:
   email: "everton.augustor@gmail.com"
@@ -22,12 +22,12 @@ galaxy_arms:
       - "Figma"
       - "Design Systems"
       - "Prototyping"
-  - name: "Frontend"
+  - name: "AI & Process"
     color: "synapse_cyan"
     items:
-      - "React"
-      - "React Native"
-      - "TypeScript"
+      - "Claude Code"
+      - "MCP"
+      - "Prompt Design"
   - name: "AI & Research"
     color: "axon_amber"
     items:
