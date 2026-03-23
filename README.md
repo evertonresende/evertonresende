@@ -33,8 +33,11 @@ Design de produto bancario com features de IA. Prototipacao rapida com IA reduzi
 **Softplan** — Product Designer *(nov 2022 - out 2025)*
 3 anos em legaltech enterprise com 2.000+ colaboradores. Discovery e pesquisa com usuarios em tribunais e orgaos publicos. Reconhecido 10x no programa Softplayer A+.
 
+**Dental Smart** — Product Designer, Freelance *(2023 - 2025)*
+Software odontologico com IA para mais de 200 clinicas. Pesquisa de campo, design de features inteligentes. Reducao de 62% em tarefas administrativas. Freelance paralelo a Softplan.
+
 **Freelancer** — Product Designer *(nov 2021 - out 2022)*
-Projetos independentes incluindo Dental Smart: software odontologico com IA para mais de 200 clinicas. Reducao de 62% em tarefas administrativas.
+Projetos independentes de design de produto digital.
 
 **FAPAM** — UI/UX Designer *(nov 2018 - out 2021)*
 Redesign do Portal do Aluno para 4.000+ estudantes. Reducao de 68% no tempo de busca por informacoes.
