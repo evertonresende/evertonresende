@@ -11,12 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
@@ -27,18 +21,23 @@
 
 <br/>
 
-Product Designer com 6 anos de experiencia em design de produto digital.
-Processo AI-First: integro inteligencia artificial em cada etapa do design.
+AI Product Designer. Uso IA para acelerar discovery, prototipacao e validacao de produto.
 
-**Atualmente** AI Product Designer na SAT Bank
+Mais de 7 anos de experiencia em design de produto. Foco em pesquisa com usuarios, experimentacao e entrega de impacto mensuravel.
 
-### O que projeto
+### Trajetoria
 
-**App Bancario — SAT Bank** *(em producao)*
-Design de produto para app bancario mobile com processo AI-First. A/B testing com Statsig, features de IA, automacao de fluxos com MCP, design system escalavel.
+**SAT Bank** — AI Product Designer *(out 2025 - mar 2026)*
+Design de produto bancario com features de IA. Prototipacao rapida com IA reduziu ciclo de design em 74%. A/B testing com Statsig. Design system com 120+ componentes.
 
-**Produtos Juridicos — Softplan** *(3 anos)*
-Discovery, pesquisa com usuarios e prototipacao de alta fidelidade para o setor publico/juridico. Reconhecido 10x no programa Softplayer A+.
+**Softplan** — Product Designer *(nov 2022 - out 2025)*
+3 anos em legaltech enterprise com 2.000+ colaboradores. Discovery e pesquisa com usuarios em tribunais e orgaos publicos. Reconhecido 10x no programa Softplayer A+.
+
+**Freelancer** — Product Designer *(nov 2021 - out 2022)*
+Projetos independentes incluindo Dental Smart: software odontologico com IA para mais de 200 clinicas. Reducao de 62% em tarefas administrativas.
+
+**FAPAM** — UI/UX Designer *(nov 2018 - out 2021)*
+Redesign do Portal do Aluno para 4.000+ estudantes. Reducao de 68% no tempo de busca por informacoes.
 
 ### Open Source
 
