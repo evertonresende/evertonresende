@@ -1,64 +1,33 @@
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+# Everton Resende
 
-<br/>
+**AI Engineer.** I build LLM, agent and RAG systems and ship them to production, from architecture to infrastructure, with TypeScript, Python, Cloudflare and AWS. 7+ years in software development.
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+Open to remote work: international contracts, B2B contractor work, or full-time employment in Brazil (CLT).
 
-<br/>
+[evertonresende.com](https://evertonresende.com/en) · [CV (PDF)](https://evertonresende.com/cv-everton-resende-en.pdf) · [LinkedIn](https://www.linkedin.com/in/evertonresende) · [everton.augustor@gmail.com](mailto:everton.augustor@gmail.com)
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
+## Public code
 
-<br/>
+- [agent-evals-demo](https://github.com/evertonresende/agent-evals-demo): how I test an LLM support agent before a change ships. A golden set, metrics, an LLM judge checked against 26 hand labels, and a CI gate that fails on unsafe replies. Synthetic data.
+- [portfolio-everton](https://github.com/evertonresende/portfolio-everton): source code for evertonresende.com. React 19 Server Components on Cloudflare Workers, built with coding agents.
+- Cal.com: [#27636](https://github.com/calcom/cal.com/pull/27636) and [#27637](https://github.com/calcom/cal.com/pull/27637), both merged.
 
-<details>
-<summary><strong>Mais sobre mim</strong></summary>
+## What I've put into production
 
-<br/>
+- **Tazz**, a ride-hailing app: a support agent with evals, guardrails and an LLM judge, where a person reviews every draft. Keeping the same model, a new prompt and guardrail raised passing eval cases from 10 to 23 of 31. [Case study](https://evertonresende.com/en/projects/tazz)
+- **Dental Smart**, a SaaS used by ~20 dental clinics: Whisper transcribes the visit and Llama 3.3 70B writes the clinical note into the patient record, as a draft for the dentist to review. [Case study](https://evertonresende.com/en/projects/dental-smart)
+- **Maximus**, an app for anesthesiologists: a clinical RAG chat on the OpenAI Responses API with file_search.
+- **Coppay**, a fintech: LLM credit assessments with gpt-oss-120b at ~R$0.01 each. The analyst makes the call.
+- **Rota Protegida**, face recognition for a city's schools: AuraFace embeddings in Cloudflare Vectorize, with AWS Rekognition for uncertain matches and human review after that.
 
-AI Product Designer. Uso IA para acelerar discovery, prototipacao e validacao de produto.
+Most of this code belongs to clients and is private. The Tazz and Dental Smart case studies cover the architecture and the decisions; the site covers the rest.
 
-Mais de 7 anos de experiencia em design de produto. Foco em pesquisa com usuarios, experimentacao e entrega de impacto mensuravel.
+## How I work
 
-### Trajetoria
+I design the architecture and the acceptance criteria, coding agents write most of the code, and I review it, debug it and own what goes to production.
 
-**SAT Bank** — AI Product Designer *(out 2025 - mar 2026)*
-Design de produto bancario com features de IA. Prototipacao rapida com IA reduziu ciclo de design em 74%. A/B testing com Statsig. Design system com 120+ componentes.
+## Stack
 
-**Softplan** — Product Designer *(nov 2022 - out 2025)*
-3 anos em legaltech enterprise com 2.000+ colaboradores. Discovery e pesquisa com usuarios em tribunais e orgaos publicos. Reconhecido 10x no programa Softplayer A+.
-
-**Dental Smart** — Product Designer, Freelance *(2023 - 2025)*
-Software odontologico com IA para mais de 200 clinicas. Pesquisa de campo, design de features inteligentes. Reducao de 62% em tarefas administrativas. Freelance paralelo a Softplan.
-
-**Freelancer** — Product Designer *(nov 2021 - out 2022)*
-Projetos independentes de design de produto digital.
-
-**FAPAM** — UI/UX Designer *(nov 2018 - out 2021)*
-Redesign do Portal do Aluno para 4.000+ estudantes. Reducao de 68% no tempo de busca por informacoes.
-
-### Open Source
-
-- [Cal.com #27636](https://github.com/calcom/cal.com/pull/27636) — fix(ui): change phone booking display *(merged)*
-- [Cal.com #27637](https://github.com/calcom/cal.com/pull/27637) — fix: hide cancel/reschedule links in emails when disabled *(open)*
-
-</details>
-
-<br/>
-
-<div align="center">
-  <a href="https://evertonresende.com">
-    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/evertonresende">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:everton.augustor@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffb020" alt="Email"/>
-  </a>
-</div>
+- **AI:** OpenAI, Anthropic, Groq and Workers AI models · agents and tool calling · RAG · structured output · guardrails · LLM-as-judge · evals · speech-to-text
+- **Code:** TypeScript, Python, SQL · Hono, FastAPI, Node.js · React, Next.js, React Native / Expo
+- **Infra:** Cloudflare (Workers, Durable Objects, Queues, D1, R2, Vectorize, AI Gateway) · Postgres, Supabase · AWS · Docker · GitHub Actions
