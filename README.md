@@ -4,7 +4,7 @@
 
 Open to remote work: international contracts, B2B contractor work, or full-time employment in Brazil (CLT).
 
-[evertonresende.com](https://evertonresende.com/en) · [CV (PDF)](https://evertonresende.com/cv-everton-resende-en.pdf) · [LinkedIn](https://www.linkedin.com/in/evertonresende) · [everton.augustor@gmail.com](mailto:everton.augustor@gmail.com)
+[evertonresende.com](https://evertonresende.com/en) · [CV (PDF)](https://evertonresende.com/cv-everton-resende-en.pdf) · [LinkedIn](https://www.linkedin.com/in/evertonresende) · [contato@evertonresende.com](mailto:contato@evertonresende.com)
 
 ## Public code
 
